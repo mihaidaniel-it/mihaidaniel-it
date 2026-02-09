@@ -20,10 +20,12 @@
 - Software Development
 
 
-## Языки программирования
+## Языки программирования и технологии
 
 ### Знаю:
 
+- HTML
+- CSS
 - PHP
 - JavaScript
 - SQL
