@@ -25,6 +25,9 @@
 ### Знаю:
 
 - PHP
+- JavaScript
+- SQL
+- mySQL
 
 ### Изучаю:
 
